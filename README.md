@@ -1,9 +1,13 @@
 # zmwfilter
 
-Provides a simple ZMW ID filtering utility for BAM data, via either an
+Provides a simple ZMW ID filtering utility for PacBio BAM data, via either an
 "include-list" or "exclude-list".
 
-_zmwfilter_ is available on our servers as a GNU module.
+## Availability
+The latest `zmwfilter` can be installed via the bioconda package `zmwfilter`.
+
+Please refer to our [official pbbioconda page](https://github.com/PacificBiosciences/pbbioconda)
+for information on Installation, Support, License, Copyright, and Disclaimer.
 
 ## Usage examples
 ```
